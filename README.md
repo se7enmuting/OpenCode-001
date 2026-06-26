@@ -2,4 +2,4 @@
 
 Hello World
 
-GPG signed commit test
+SSH signed commit test
